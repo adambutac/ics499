@@ -1,0 +1,6 @@
+poster
+http://sinsip.com/yn.png
+
+kahn academy
+https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory
+https://www.khanacademy.org/computing/computer-science/internet-intro
