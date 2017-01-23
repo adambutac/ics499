@@ -1,0 +1,2 @@
+string pluging, informatin capacity
+router game, physically passing 'packets'
