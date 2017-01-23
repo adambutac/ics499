@@ -1,0 +1,57 @@
+like postal service, but instead of packages, information
+
+bits
+1 or 0, called binary since only two different states
+
+bandwidth
+transmission capacity, measured by bitrate
+
+bitrate
+number of bits per second a system can transmit or receive
+
+latency
+time it takes for a bit to travel from sender to receiver
+
+how to send data
+copper, fiber, wireless
+
+protocol
+a well known set of rules and standards used to communicate between machines
+
+internet protocol
+ip, and ip address
+an address on the internet is just a number that uniqe to each device on the network
+like physical postal address
+just how there is city, stree, state, country, ip address have sections too
+usuallay, region, country, subnet, then device
+currently ipv4 (32-bit), allow 4 billion, moving to ipv6 (128-bit) allow 340 undecillion
+
+when devices communicate, also includes 'from' address so know where to respond
+
+domain name system
+don't have to know address, associates names with numbers
+how dns works, and heigerarcies
+
+not sent via a direct line, but as as packets
+can't send large packets, so fragmentent and reassembled at destination
+
+packets have source and destination address
+special devices called routers direct paackets based on availabilty to path and congestion
+
+tcp manages the sending and receiving of data as packets, like guarntee mail servie
+acknowledges sent packages, and if correct, signs for them all and done
+if missing, won't sign and asks for the rest
+
+tcp and routers are scaleable, are fault tolerant and redundant
+
+web browsers accesses webpages for you, using universal resource locator, reference dns
+use hyper text transfer protocol, language of servers and browsers, via get requests
+pages re displayed in hyper text markup language, made of tag for links, images, titles, etc
+get requests are made for each element ie pictures, music
+
+send data to server, (search, input field, blog post) via post request
+during loging, browsers get a cookie to identify itself without having to login every time
+since cookies can be 'sniffed', us https (secure) via ssl, now tls
+when a server replied, it has a signed certificate, verified by a certificate authority, like governments contorl of ids
+if sites certificate doesn't check out, browser will give a warning
+
