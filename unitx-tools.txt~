@@ -1,9 +1,0 @@
-ICMP
-  ping
-  traceroute
-TCP
-  telnet, nc
-HTTP
-  cURL
-DNS
-  nslookup, dig, whois
