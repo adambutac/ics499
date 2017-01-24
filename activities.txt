@@ -1,4 +1,3 @@
 string pluging, informatin capacity
 router game, physically passing 'packets'
 wireshark packet analysis
-dev tools in the browser, see what resources our favorite websites require. (images, javascript, html ...)
