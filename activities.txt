@@ -1,3 +1,4 @@
 string pluging, informatin capacity
 router game, physically passing 'packets'
 wireshark packet analysis
+python web/ftp server? Students can write their own homepage and visit others
